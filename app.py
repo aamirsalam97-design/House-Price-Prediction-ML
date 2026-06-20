@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title("House Price Prediction")
-st.success("App is working successfully!")
+st.title("Test App")
+st.write("Hello World")
